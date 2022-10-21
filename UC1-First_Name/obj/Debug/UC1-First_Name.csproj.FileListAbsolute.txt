@@ -1,0 +1,8 @@
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Regex\UC1-First_Name\bin\Debug\UC1-First_Name.exe.config
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Regex\UC1-First_Name\bin\Debug\UC1-First_Name.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Regex\UC1-First_Name\bin\Debug\UC1-First_Name.pdb
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Regex\UC1-First_Name\obj\Debug\UC1-First_Name.csproj.AssemblyReference.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Regex\UC1-First_Name\obj\Debug\UC1-First_Name.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Regex\UC1-First_Name\obj\Debug\UC1-First_Name.csproj.CoreCompileInputs.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Regex\UC1-First_Name\obj\Debug\UC1-First_Name.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Regex\UC1-First_Name\obj\Debug\UC1-First_Name.pdb
