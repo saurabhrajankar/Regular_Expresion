@@ -1,0 +1,8 @@
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Regex\UC9-Clear_All_Email\bin\Debug\UC9-Clear_All_Email.exe.config
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Regex\UC9-Clear_All_Email\bin\Debug\UC9-Clear_All_Email.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Regex\UC9-Clear_All_Email\bin\Debug\UC9-Clear_All_Email.pdb
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Regex\UC9-Clear_All_Email\obj\Debug\UC9-Clear_All_Email.csproj.AssemblyReference.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Regex\UC9-Clear_All_Email\obj\Debug\UC9-Clear_All_Email.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Regex\UC9-Clear_All_Email\obj\Debug\UC9-Clear_All_Email.csproj.CoreCompileInputs.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Regex\UC9-Clear_All_Email\obj\Debug\UC9-Clear_All_Email.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Regex\UC9-Clear_All_Email\obj\Debug\UC9-Clear_All_Email.pdb
