@@ -1,0 +1,8 @@
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Regex\UC3-Enter_Email\bin\Debug\UC3-Enter_Email.exe.config
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Regex\UC3-Enter_Email\bin\Debug\UC3-Enter_Email.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Regex\UC3-Enter_Email\bin\Debug\UC3-Enter_Email.pdb
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Regex\UC3-Enter_Email\obj\Debug\UC3-Enter_Email.csproj.AssemblyReference.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Regex\UC3-Enter_Email\obj\Debug\UC3-Enter_Email.csproj.SuggestedBindingRedirects.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Regex\UC3-Enter_Email\obj\Debug\UC3-Enter_Email.csproj.CoreCompileInputs.cache
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Regex\UC3-Enter_Email\obj\Debug\UC3-Enter_Email.exe
+C:\Users\Saurabh\OneDrive\Desktop\Bridge NET\Class  work\Regex\UC3-Enter_Email\obj\Debug\UC3-Enter_Email.pdb
