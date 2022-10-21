@@ -13,7 +13,7 @@ namespace UC8_Password_Rule4
         {
             Console.WriteLine("Enter Email Id");
             string email = Console.ReadLine();
-            string emailFormat = "[A-Za-z0-9](.[-+a-z0-9A-Z])+@[A-Za-z0-9]+.[a-z]{2,4}(.[a-z]{2,3})?$";//writing the expression as we are needed
+            string emailFormat = "(?=.*[A-Z])(?=.*[0-9])(?=.*[!@#$%^&*]).{8}";//writing the expression as we are needed
             Regex regex1 = new Regex(emailFormat);                        //creating a regex named obj with regular firstname   
             if (regex1.IsMatch(email))                                   //if the word matches the regex          
             {
